@@ -1,8 +1,3 @@
-//Tsega Tsahai
-//CSCI 4900
-//Project 2
-//June 18 2019
-
 #include <iostream>
 #include <string>
 #include <vector>
